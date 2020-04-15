@@ -206,35 +206,8 @@ if __name__ == "__main__":
 
 
 
-
 """
-This music means a lot to me. This music became a part of my childhood.
-Mega Man reminds me of my eldest brother who passed away 7 years ago.
-
-When I was in the 3rd grade (9 year old self).. during a typhoon, I was in the classroom sitting on my desk,
-the cold air hitting my face. Our adviser announced that the afternoon class was suspended,
-the whole class was doing nothing and it was really boring,
-so nag-isip ako ng magandang gawin upang mawala ang boredoom
-
-nang biglang tumunog ang iceman stage anthem sa aking isipan..
-**playing iceman stage theme in my imagination.**
-at ang mood ko ay sumabay sa lamig ng panahon, tila perpekto ang lahat!
-
-since our school is just a minute away from home,
-pinauwi ang lahat ng malapit ang tahanan kasama na ako
-di na maalis na isip ko ang musika habang naglalakad ako nang mag-isa, tila 
-sumasabay sa panahon ang huni ng musika, at naglilinger ang kasiyahan sa bawat kumpas.
-
-(overwhelming!)
-
-pagdating ko sa bahay, naabutan ko ang mga kapatid kong naglalaro ng rockman
-agad kong ibinaba ang bag ko at excited na pumwesto sa kanila
-at coincidence na eksaktong nasa iceman stage na yung kuya kong panganay.
-tumapat sa musikang kasalakuyan kong pinapakinggan sa aking imahinasyon.
-may halong thrill at saya habang naonood ako, kasi ayun na yung pinakamahirap na stage
-at hindi pa nila naaabot noong panahong 'yon.
-
-Now I'm 20 and I still love retro music! Mega Man tracks never gets old.
+I accidenally added a diary. lmao
 """
 
 
